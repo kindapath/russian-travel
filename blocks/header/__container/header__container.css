@@ -1,0 +1,7 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-left: 48px;
+  margin-right: 48px;
+}

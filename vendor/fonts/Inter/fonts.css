@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Inter Black', 'Helvetica', sans-serif;
+  src: url('../Inter/Inter-Black.otf');
+}
+
+@font-face {
+  font-family: 'Inter Regular', 'Helvetica', sans-serif;
+  font-weight: regular;
+  src: url('../Inter/Inter-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Inter Bold', 'Helvetica', sans-serif;
+  font-weight: bold;
+  src: url('../Inter/Inter-Bold.otf');
+}
