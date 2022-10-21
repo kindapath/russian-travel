@@ -1,5 +1,6 @@
+
+@import url('../vendor/fonts/fonts.css');
 @import url('../blocks/page/page.css');
-@import url('../vendor/fonts/Inter/fonts.css');
 
 @import url('../blocks/content/content.css');
 
@@ -36,3 +37,4 @@
 @import url('../blocks/places/place/__image/place__image.css');
 @import url('../blocks/places/place/__paragraph/place__paragraph.css');
 
+@import url('../blocks/footer/footer.css');
