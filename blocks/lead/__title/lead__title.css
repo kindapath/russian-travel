@@ -8,3 +8,23 @@
   max-width: 720px;
   margin: 0 0 32px 0;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 16px;
+    max-width: 288px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

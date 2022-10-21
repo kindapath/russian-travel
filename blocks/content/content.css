@@ -1,6 +1,3 @@
 .content {
-  display: grid;
-  grid-template-columns: 1;
-  justify-items: center;
-  gap: 92px 0;
+
 }

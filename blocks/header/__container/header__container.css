@@ -5,3 +5,17 @@
   margin-left: 48px;
   margin-right: 48px;
 }
+
+@media screen and (max-width: 768px) {
+  .header__container {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header__container {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

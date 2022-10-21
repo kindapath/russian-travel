@@ -1,5 +1,4 @@
 .page {
-  min-height: 1280px;
   background-color: #2A2C2F;
   padding-top: 28px;
   font-family: 'Inter Regular';
@@ -10,4 +9,11 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   color: #ffff;
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding-top: 16px;
+  }
+
 }
