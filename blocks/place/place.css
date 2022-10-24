@@ -3,6 +3,7 @@
   grid-template-columns: minmax(auto, 460px) 1fr;
   grid-template-rows: repeat(2, min-content);
   gap: 48px 40px;
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
 }
 
 @media screen and (max-width: 1124px) {

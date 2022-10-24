@@ -4,6 +4,7 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(auto-fit, 1fr);
   gap: 16px 16px;
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
 }
 
 @media screen and (max-width: 1124px) {
