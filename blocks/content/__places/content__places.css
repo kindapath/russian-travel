@@ -1,0 +1,35 @@
+@media screen and (max-width: 984px) {
+  .content__places {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .content__places {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 1124px) {
+  .content__places {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .content__places {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .content__places {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

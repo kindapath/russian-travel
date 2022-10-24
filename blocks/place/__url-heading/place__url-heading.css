@@ -8,7 +8,7 @@
   margin-bottom: 12px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1124px) {
   .place__url-heading {
     font-size: 12px;
     line-height: 12px;

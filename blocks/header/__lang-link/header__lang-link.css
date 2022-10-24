@@ -6,12 +6,10 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 568px) {
   .header__lang-link {
     font-weight: 400;
     font-size: 18px;
     line-height: 20px;
   }
-
-
 }
