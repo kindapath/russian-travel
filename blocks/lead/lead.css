@@ -5,3 +5,6 @@
   align-items: center;
   box-sizing: border-box;
 }
+.lead {
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
+}

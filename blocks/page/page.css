@@ -4,7 +4,7 @@
   max-width: 1280px;
   background-color: #2A2C2F;
   padding: 28px 48px 24px;
-  font-family: 'Inter';
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
   text-rendering: optimizeLegibility;
   color: #ffff;
   display: flex;

@@ -6,7 +6,7 @@
   box-sizing: border-box;
   align-self: center;
   width: 100%;
-
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
 }
 
 @media screen and (min-width: 1124px) {
