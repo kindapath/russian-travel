@@ -5,26 +5,3 @@
   align-items: center;
   box-sizing: border-box;
 }
-
-
-@media screen and (min-width: 1124px) {
-  .content__lead {
-    max-width: 984px;
-    margin: 0 auto;
-  }
-}
-
-@media screen and (max-width: 1124px) {
-  .content__lead {
-    max-width: 928px;
-    margin: 0 auto;
-  }
-}
-
-
-
-@media screen and (max-width: 984px) {
-  .content__lead {
-    width: 100%;
-  }
-}

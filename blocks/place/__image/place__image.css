@@ -4,27 +4,3 @@
   background-size: cover;
   background-position: center;
 }
-
-.place__image_pic_kosa {
-  background-image: url('../../../../images/place-kosa.jpg');
-}
-
-.place__image_pic_kolsky {
-  background-image: url('../../../../images/place-kolsky.jpg');
-}
-
-.place__image_pic_altai {
-  background-image: url('../../../../images/place-altai.jpg');
-}
-
-.place__image_pic_winter-baikal {
-  background-image: url('../../../../images/place-winter-baikal.jpg');
-}
-
-.place__image_pic_karelia {
-  background-image: url('../../../../images/place-karelia.jpg');
-}
-
-@media screen and (max-width: 568px) {
-  .place__image {}
-}
