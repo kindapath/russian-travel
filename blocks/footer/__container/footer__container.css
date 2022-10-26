@@ -33,7 +33,7 @@
 
 @media screen and (max-width: 568px) {
   .footer__container {
-
-    gap: 32px 0;
+    margin: 0 16px;
+    gap: 48px 0;
   }
 }

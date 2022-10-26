@@ -6,11 +6,11 @@
   line-height: 20px;
   letter-spacing: 2px;
   margin-bottom: 12px;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 1124px) {
   .place__url-heading {
-    font-size: 12px;
     line-height: 12px;
   }
 }

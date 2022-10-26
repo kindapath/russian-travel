@@ -34,6 +34,7 @@
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__figure/lead__figure.css');
 
 /* block intro */
 @import url('../blocks/intro/intro.css');
@@ -59,13 +60,6 @@
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 @import url('../blocks/place/__image/place__image.css');
 
-/* modifier image_pic */
-@import url('../blocks/place/__image/_pic/place__image_pic_altai.css');
-@import url('../blocks/place/__image/_pic/place__image_pic_karelia.css');
-@import url('../blocks/place/__image/_pic/place__image_pic_kolsky.css');
-@import url('../blocks/place/__image/_pic/place__image_pic_kosa.css');
-@import url('../blocks/place/__image/_pic/place__image_pic_winter-baikal.css');
-
 /* block cover */
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__item/cover__item.css');
@@ -79,3 +73,4 @@
 @import url('../blocks/footer/__copyright/footer__copyright.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__links/footer__links.css');
+@import url('../blocks/footer/__links-list/footer_links-list.css');
